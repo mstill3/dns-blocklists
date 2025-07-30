@@ -1,13 +1,4 @@
-[Adblock Plus]
-! Title: Matt's DNS Blocklist
-! Description: 
-! Homepage: 
-! License: 
-! Issues: 
-! Expires: 1 day
-! Last modified: 29 Jul 2025 22:43 UTC
-! Version: 2025.0729.2243.38
-! Syntax: AdBlock
-! Number of entries: 1
-!
-||amazon.com^
+0.0.0.0 amazon.com
+0.0.0.0 deepseek.com
+0.0.0.0 temu.com
+0.0.0.0 tiktok.com
