@@ -1,4 +1,9 @@
-0.0.0.0 amazon.com
-0.0.0.0 deepseek.com
-0.0.0.0 temu.com
-0.0.0.0 tiktok.com
+[Adblock Plus]
+! Title: Matt's DNS Blocklist
+! Syntax: AdBlock
+! Number of entries: 1
+!
+||amazon.com^
+||deepseek.com^
+||temu.com^
+||tiktok.com^
