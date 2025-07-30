@@ -1,7 +1,7 @@
 [Adblock Plus]
 ! Title: Matt's DNS Blocklist
 ! Syntax: AdBlock
-! Number of entries: 1
+! Number of entries: 4
 !
 ||amazon.com^
 ||deepseek.com^
