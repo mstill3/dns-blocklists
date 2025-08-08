@@ -5,5 +5,9 @@
 !
 ||amazon.com^
 ||deepseek.com^
+||lifeisgood.com^
+||target.com^
 ||temu.com^
 ||tiktok.com^
+||walmart.com^
+||yankeecandle.com^
