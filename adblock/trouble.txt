@@ -4,6 +4,7 @@
 ! Number of entries: 7
 !
 
+||amazon.com^
 ||deepseek.com^
 ||lifeisgood.com^
 ||target.com^
